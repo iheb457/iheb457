@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Iheb Bousselmi! 👋</h1>
 
 <p align="center">
-🚀 Cybersecurity Analyst | IT Security Enthusiast | International Volunteer  
+🚀 Cybersecurity Analyst
 🔍 Passionate about Cyber Threat Intelligence, SIEM, and Security Automation  
 </p>
 
