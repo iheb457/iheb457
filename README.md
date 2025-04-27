@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Iheb! 👋</h1>
 
 <p align="center">
-🚀 Aspiring Cybersecurity Analyst | Future Cybersecurity Engineer  
+🚀 Aspiring Cybersecurity Analyst  
 🔎 Passionate about Threat Intelligence, SIEM, and Security Automation  
 🌍 Driven by technology, community, and building a safer digital world  
 </p>
