@@ -1,18 +1,20 @@
-<h1 align="center">Hi, I'm Iheb Bousselmi! 👋</h1>
+<h1 align="center">Hey there, I'm Iheb! 👋</h1>
 
 <p align="center">
-🚀 Cybersecurity Analyst
-🔍 Passionate about Cyber Threat Intelligence, SIEM, and Security Automation  
+🚀 Aspiring Cybersecurity Analyst | Future Cybersecurity Engineer  
+🔎 Passionate about Threat Intelligence, SIEM, and Security Automation  
+🌍 Driven by technology, community, and building a safer digital world  
 </p>
 
 ---
 
-### 🛠 About Me  
+### 🛡️ About Me
 
-- 🔐 **Cybersecurity Enthusiast** with a background in **Computer Science & Engineering Technology for Strategy and Security**  
-- 🏴‍☠️ Interested in **Threat Hunting, SIEM tools, Network Security, and SOC operations**  
-- 🎯 Currently studying for **(ISC)² CC and CompTIA Security+** certifications  
-- 🛠 Building hands-on **cybersecurity projects** and learning **security analysis**  
+- 🔐 **Cybersecurity enthusiast** with a **Computer Science** background and a focus on **network security** and **threat detection**
+- 🎯 Currently preparing for **(ISC)² Certified in Cybersecurity (CC)** and **CompTIA Security+** certifications
+- 🛠️ Hands-on experience with **SIEM tools** (Splunk, QRadar), **threat hunting labs**, and building personal **security projects**
+- 🧠 Lifelong learner passionate about **cyber threat intelligence**, **incident response**, and **security automation**
+- 🌍 Advocate for **continuous growth**, **global collaboration**, and making cybersecurity more **accessible and impactful**
 
 ---
 
@@ -37,7 +39,7 @@
  
 ---
 
-### 🔗 Let's Connect  
+### 🔗 Let's Connect!  
 
 🌐 **LinkedIn:** [linkedin.com/in/iheb-bousselmi](https://www.linkedin.com/in/iheb-bousselmi)  
 📧 **Email:** [ihebbou.slmi12@gmail.com](mailto:ihebbou.slmi12@gmail.com)  
