@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Iheb Bousselmi! 👋</h1>
+<h1 align="center">Hello, I'm Iheb! 👋</h1>
 
 <p align="center">
-🚀 Aspiring Cybersecurity Analyst | Master’s Candidate in Engineering Technology for Strategy & Security  
+🚀 Aspiring Cybersecurity Analyst
 🔐 Passionate about Cybersecurity, Threat Intelligence, and Security Automation  
 🌍 Dedicated to building secure and resilient digital infrastructures  
 </p>
