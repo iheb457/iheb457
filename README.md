@@ -1,20 +1,39 @@
-<h1 align="center">Hey there, I'm Iheb! 👋</h1>
+<h1 align="center">Hello, I'm Iheb Bousselmi! 👋</h1>
 
 <p align="center">
-🚀 Aspiring Cybersecurity Analyst  
-🔎 Passionate about Threat Intelligence, SIEM, and Security Automation  
-🌍 Driven by technology, community, and building a safer digital world  
+🚀 Aspiring Cybersecurity Analyst | Master’s Candidate in Engineering Technology for Strategy & Security  
+🔐 Passionate about Cybersecurity, Threat Intelligence, and Security Automation  
+🌍 Dedicated to building secure and resilient digital infrastructures  
 </p>
 
 ---
 
 ### 🛡️ About Me
 
-- 🔐 **Cybersecurity enthusiast** with a **Computer Science** background and a focus on **network security** and **threat detection**
-- 🎯 Currently preparing for **(ISC)² Certified in Cybersecurity (CC)** and **CompTIA Security+** certifications
-- 🛠️ Hands-on experience with **SIEM tools** (Splunk, QRadar), **threat hunting labs**, and building personal **security projects**
-- 🧠 Lifelong learner passionate about **cyber threat intelligence**, **incident response**, and **security automation**
-- 🌍 Advocate for **continuous growth**, **global collaboration**, and making cybersecurity more **accessible and impactful**
+I’m a **Cybersecurity Analyst** in progress, currently pursuing a Master’s in **Engineering Technology for Strategy and Security** at the University of Genoa, Italy. With a **Bachelor's in Computer Science**, I have built a solid foundation in **IoT**, **network security**, and **web development**. My goal is to become a **Cybersecurity Engineer**, specializing in **threat intelligence** and **security operations**.
+
+- 💡 Currently studying for **(ISC)² Certified in Cybersecurity (CC)** and **CompTIA Security+** certifications to deepen my expertise
+- 🛠️ Gaining hands-on experience with **SIEM tools** (Splunk, QRadar), **incident response**, and **security audits**
+- 🔍 Passionate about **SIEM**, **network security**, and **threat hunting**, with ongoing work on real-world security projects
+- 🎯 Constantly learning and staying ahead with **cybersecurity trends**, **vulnerability management**, and **security automation** strategies
+- 🌍 Strong advocate for **continuous learning**, collaboration, and making cybersecurity more inclusive and accessible
+
+---
+
+### 🔧 What I’m Working On
+
+- 🏫 Building practical knowledge in **Security Information and Event Management (SIEM)** and **Threat Intelligence** through hands-on labs and real-world projects
+- 🔒 Designing and implementing **security solutions** for various use cases, focusing on **network security**, **endpoint protection**, and **secure communications**
+- 📚 Preparing for my **(ISC)² Certified in Cybersecurity (CC)** and **CompTIA Security+** certifications to formally validate my skills
+- 🛠️ Developing **cybersecurity projects** that focus on **incident response**, **phishing detection**, and **network monitoring**
+
+---
+
+### 📬 Let’s Connect!
+
+- 📫 Feel free to reach out via [ihebbou.slmi12@gmail.com](mailto:ihebbou.slmi12@gmail.com)
+- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/iheb-bousselmi)
+- 💻 Check out my projects and contributions on [GitHub](https://github.com/iheb457)
 
 ---
 
