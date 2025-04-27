@@ -2,7 +2,6 @@
 
 <p align="center">
 🚀 Aspiring Cybersecurity Analyst  
-🔐 Focused on Cybersecurity, Threat Intelligence, and Security Automation  
 </p>
 
 ---
@@ -11,19 +10,6 @@
 
 I’m a **Cybersecurity Analyst** in progress. I specialize in **network security**, **SIEM**, and **threat intelligence**. 
 
-- 🔍 Actively preparing for **(ISC)² Certified in Cybersecurity (CC)** and **CompTIA Security+** certifications
-- 🛠 Hands-on experience with **SIEM tools** (Splunk, QRadar), **incident response**, and **security audits**
-- 💡 Passionate about **cybersecurity** and **security automation**
-
----
-
-### 🎓 Professional Training
-
-- **Junior System and Cybersecurity Analyst** – **Generation Italy** (2025)  
-  Focus: **Cybersecurity Fundamentals**, **Linux**, **Networking**, **SIEM Tools**
-
-- **API Security for PCI Compliance** – **APIsec University** (2025)  
-  Focus: **API Security** and **PCI DSS Compliance**
 
 ---
 
