@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+This+is+IHEB;A+Cybersecurity+Analyst)](https://git.io/typing-svg)
 <p align="center">
-🚀 Aspiring Cybersecurity Analyst  
 </p>
 
 ---
@@ -41,4 +40,4 @@ I’m a **Cybersecurity Analyst** in progress. I specialize in **network securit
 
 ---
 
-⚡ _Always learning, Practising, and exploring cybersecurity!_ 🚀  
+⚡ Always learning, Practising, and exploring! 🚀  
