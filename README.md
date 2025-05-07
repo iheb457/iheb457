@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+This+is+IHEB;A+Cybersecurity+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+This+is+IHEB;Cybersecurity+Analyst;Founder+of+TraceNet)](https://git.io/typing-svg)
 <p align="center">
 </p>
 
