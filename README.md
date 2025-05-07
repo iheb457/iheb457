@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Iheb! 👋</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+This+is+IHEB;A+Cybersecurity+Analyst)](https://git.io/typing-svg)
 <p align="center">
 🚀 Aspiring Cybersecurity Analyst  
 </p>
