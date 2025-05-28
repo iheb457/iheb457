@@ -6,7 +6,7 @@
 
 ### 🛡️ About Me
 
-I'm a Cybersecurity Analyst with a background in Computer Science and growing expertise in threat analysis, SIEM tools, and incident response. Co-founder of TraceNet, a nonprofit OSINT project focused on finding missing persons through open-source intelligence. Passionate about protecting digital assets and contributing to a SOC or security team.
+I'm a Cybersecurity Analyst with a background in Computer Science and growing expertise in threat analysis, SIEM tools, and incident response. Co-founder of TraceNet, a nonprofit OSINT project focused on finding missing persons through open-source intelligence. Passionate about protecting digital assets and contributing to a security team.
 
 
 ---
