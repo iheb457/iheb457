@@ -40,4 +40,4 @@ I'm a Cybersecurity Specialist with a background in Computer Science and growing
 
 ---
 
-⚡ Always learning, Practising, and exploring! 🚀  
+Always learning, Practising, and exploring.
